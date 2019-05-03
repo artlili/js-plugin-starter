@@ -12,6 +12,8 @@ export class App{
     // initialize plugin
     init() {
 
+      console.log('Plugin run...');
+
         // set initialized to `true`
         this.initialized = true;
     }
