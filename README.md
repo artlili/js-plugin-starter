@@ -1,10 +1,33 @@
 # js-plugin-starter
+
 VanillaJS plugin starter with Webpack
 
-# Clone this repo
+### Clone this repo
 
-# Instructions
-- `npm install` to install dependencies
-- Execute command `npm run start` for running development server and preview
-- Execute command `npm run build` for creating distribution files
-- Tweak configuration inside `config` folder if necessary
+### Installation
+
+Requires [Node.js](https://nodejs.org/) + to run.
+
+Install the dependencies and devDependencies and start the server.
+
+```sh
+$ cd js-plugin-starter
+$ npm install
+```
+For developer environments...
+
+```sh
+$ npm run start
+```
+For production environments...
+
+```sh
+$ npm run build
+```
+Tweak configuration inside `config` folder if necessary
+
+### License
+
+MIT
+
+**Free Software, Hell Yeah!**
